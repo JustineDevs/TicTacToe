@@ -1,5 +1,6 @@
 # TicTacToe
 ## UI Flow
+<<<<<<< HEAD
 | Step | Description |
 |------|-------------|
 | 1 | Landing Page - Initial screen for the game. |
@@ -16,6 +17,22 @@
 | 12 | Quit Game - Exit the application. |
 | 13 | Restart Game - Reset the game for a new round. |
 | 14 | Profile Management - Manage player profiles and settings. |
+=======
+![1](https://github.com/user-attachments/assets/382f9134-6455-492e-995e-835a1d55cd95)
+![2](https://github.com/user-attachments/assets/07423588-0032-42a5-aca3-da47b7355bb0)
+![3](https://github.com/user-attachments/assets/2d61a916-ede6-4a83-8343-cf7434d0ea52)
+![4](https://github.com/user-attachments/assets/6340b793-20bb-4c5e-9da1-507d35041f49)
+![5](https://github.com/user-attachments/assets/b637b5ce-5fd8-4bbc-81bb-728973eb6d21)
+![6](https://github.com/user-attachments/assets/4f53dd56-a09c-432a-bd26-236102be97ce)
+![7](https://github.com/user-attachments/assets/5ad17bae-e928-4a6c-865e-908a4b1cad43)
+![8](https://github.com/user-attachments/assets/00201f3d-90de-4474-91d2-8265103d8f23)
+![9](https://github.com/user-attachments/assets/a578f7cc-ab00-4235-8778-dbb602cf4798)
+![10](https://github.com/user-attachments/assets/b26ab404-77f1-4afc-b58a-18bfce1c8ad6)
+![11](https://github.com/user-attachments/assets/16f5efc7-568a-44a7-8cf4-e687e8247503)
+![12](https://github.com/user-attachments/assets/059a1861-bfa1-4dda-a241-e4ec3931fec2)
+![13](https://github.com/user-attachments/assets/6b31fe77-c102-49d5-9512-f4bc3198f385)
+![14](https://github.com/user-attachments/assets/d8d9f624-0100-43d6-a2ef-114e437c1c4b)
+>>>>>>> af3022060b6e596d758458117a54a90f90cfdbd3
 
 A Java Swing-based TicTacToe game with
  a MySQL backend for storing player data, game history, and scores.
@@ -99,6 +116,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details. 
+<<<<<<< HEAD
 
 ![1](https://github.com/user-attachments/assets/382f9134-6455-492e-995e-835a1d55cd95)
 ![2](https://github.com/user-attachments/assets/07423588-0032-42a5-aca3-da47b7355bb0)
@@ -114,3 +132,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ![12](https://github.com/user-attachments/assets/059a1861-bfa1-4dda-a241-e4ec3931fec2)
 ![13](https://github.com/user-attachments/assets/6b31fe77-c102-49d5-9512-f4bc3198f385)
 ![14](https://github.com/user-attachments/assets/d8d9f624-0100-43d6-a2ef-114e437c1c4b)
+=======
+>>>>>>> af3022060b6e596d758458117a54a90f90cfdbd3
