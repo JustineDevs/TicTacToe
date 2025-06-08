@@ -30,6 +30,7 @@ A Java Swing-based TicTacToe game with
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
+- [Set Up Guide](#set-up-guide)
 
 ## Overview
 This project is a TicTacToe game built using Java Swing. It allows two players to play the game, tracks game history, and stores player statistics in a MySQL database.
@@ -45,6 +46,48 @@ This project is a TicTacToe game built using Java Swing. It allows two players t
 - Java Development Kit (JDK) 17 or higher
 - Maven
 - MySQL Server
+
+## Set Up Guide
+
+### Creating the Project Directory
+1. **Navigate to Downloads**:
+   Open your terminal or command prompt and navigate to the Downloads directory:
+   ```bash
+   cd ~/Downloads
+   ```
+
+2. **Create a New Directory**:
+   Create a new directory for the TicTacToe project:
+   ```bash
+   mkdir TicTacToe
+   ```
+
+3. **Navigate to the Project Directory**:
+   Change into the newly created directory:
+   ```bash
+   cd TicTacToe
+   ```
+
+4. **Clone the Repository**:
+   Clone the TicTacToe repository into this directory:
+   ```bash
+   git clone https://github.com/JustineDevs/TicTacToe.git .
+   ```
+
+5. **Install Dependencies**:
+   Ensure you have Maven installed. Run the following command to install the project dependencies:
+   ```bash
+   mvn install
+   ```
+
+6. **Run the Application**:
+   Use Maven to run the application:
+   ```bash
+   mvn exec:java
+   ```
+
+### Accessing the Game
+- The application will open, allowing you to start playing TicTacToe.
 
 ## Installation
 1. **Clone the Repository**:
@@ -114,3 +157,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ![12](https://github.com/user-attachments/assets/059a1861-bfa1-4dda-a241-e4ec3931fec2)
 ![13](https://github.com/user-attachments/assets/6b31fe77-c102-49d5-9512-f4bc3198f385)
 ![14](https://github.com/user-attachments/assets/d8d9f624-0100-43d6-a2ef-114e437c1c4b)
+
