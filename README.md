@@ -1,6 +1,5 @@
 # TicTacToe
 ## UI Flow
-<<<<<<< HEAD
 | Step | Description |
 |------|-------------|
 | 1 | Landing Page - Initial screen for the game. |
@@ -17,8 +16,6 @@
 | 12 | Quit Game - Exit the application. |
 | 13 | Restart Game - Reset the game for a new round. |
 | 14 | Profile Management - Manage player profiles and settings. |
-=======
->>>>>>> 
 
 A Java Swing-based TicTacToe game with
  a MySQL backend for storing player data, game history, and scores.
